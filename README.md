@@ -163,6 +163,6 @@ Customer-Churn-Prediction-ML/
 
 ## Author
 
-Abhishek
+Abhinav Harish
 
-Machine Learning Internship Project
+Machine Learning Project
